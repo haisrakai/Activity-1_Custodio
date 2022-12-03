@@ -1,0 +1,34 @@
+{
+    "first-name": "Shye Kyra",
+    "last-name": "Custodio",
+    "age": 21,
+    "address": "Brgy. Cau-ayan, Pototan, Iloilo",
+    "contact-number": "09063357576",
+    "friend-list":
+    [
+        {
+            "name": "Julie Mae Fuertes",
+            "age": 21,
+            "address": "Locsin Ville Subd. Brgy. Buntatala, Jaro, Iloilo City",
+            "likes": "Food",
+            "dislikes": "School",
+            "feeling": "Tired"
+        },
+        {
+            "name": "Ralfh Lourenze Juelar",
+            "age": 20,
+            "address": "Brgy. San Isidro, Iloilo",
+            "likes": "KPOP",
+            "dislikes": "School",
+            "feeling": "Downhearted"
+        },
+        {
+            "name": "Cyril Quinoviva",
+            "age": 22,
+            "address": "Brgy. Cau-ayan, Pototan, Iloilo",
+            "likes": "Ariana Grande",
+            "dislikes": "Toxic people",
+            "feeling": "Gorgeous"
+        }
+    ]
+}
